@@ -22,8 +22,8 @@
     <div id="main" role="main" class="container">
       <article class="post">
   <h2>A high-performance and energy-efficient exhaustive key search approach via GPU on DES-like cryptosystems</h2>
-  <div>Authors: Omid Hajihassani, Armin Ahmadzadeh, Saeid Gorgin [1]
-  <a href="https://link.springer.com/article/10.1007/s11227-017-2120-9">(Link)</a></div>
+  <div>Authors: Omid Hajihassani, Armin Ahmadzadeh, Saeid Gorgin
+  <a href="https://link.springer.com/article/10.1007/s11227-017-2120-9">[1]</a></div>
   <br />
   <div class="entry">
   <h3>Abstract</h3>
@@ -36,18 +36,19 @@
 <ul>
   <li>Challenges and Opportunities</li>
 </ul>
-
+  <p align="justify">Through our evaluations, we found that the bitslicing technique can be applicable to a wide range of applications for fully parallel SIMD execution. However, as can be seen, the integration and transformation of base instructions in most of applications to the bitsliced representation equivalents prove to be a burdensome task. Hence, we call on other researchers in other domains to use the proposed bitslicing technique to achieve a higher throughput compared to more conventional implementations. The bitslicing technique is a quite efficient way to achieve higher speed ups in data intensive operations and implementations. This bitslicing technique has also been successfully used in the fast AES encryption and decryption software implemantaion on GPU platforms <a href="https://ieeexplore.ieee.org/abstract/document/8691582">[3]</a>.
 <ul>
   <li>References</li>
 </ul>
 <p>[1] Ahmadzadeh, Armin, Omid Hajihassani, and Saeid Gorgin. "A high-performance and energy-efficient exhaustive key search approach via GPU on DES-like cryptosystems." The Journal of Supercomputing 74.1 (2018): 160-182.</p>
 <p>[2] Biham, Eli. "A fast new DES implementation in software." International Workshop on Fast Software Encryption. Springer, Berlin, Heidelberg, 1997.</p>
+<p>[3] Hajihassani, Omid, et al. "Fast AES Implementation: A High-throughput Bitsliced Approach." IEEE Transactions on Parallel and Distributed Systems (2019).</p>
 
 
   </div>
 
   <div class="date">
-    Written on May 24, 2018
+    Written on July 2, 2019
   </div>
 
   
