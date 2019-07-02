@@ -17,29 +17,12 @@
 
 " />
     
-    <meta name="author" content="Hamed Haddadi" />
-
-    
-    <meta property="og:title" content="Analytics on the Edge (Privacy, Utility, and Cost)" />
-    <meta property="twitter:title" content="Analytics on the Edge (Privacy, Utility, and Cost)" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Hamed Haddadi - Imperial College London & Brave Software" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://avatars1.githubusercontent.com/u/2929839?v=3&u=5e55941b3f7e7fca7c066fbf7110fab68371262a&s=400" /></a>
-
           <div class="site-info">
             <h1 class="site-name"><a href="/">Hamed Haddadi</a></h1>
             <p class="site-description">Imperial College London & Brave Software</p>
