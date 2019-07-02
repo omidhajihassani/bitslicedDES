@@ -30,7 +30,7 @@
     <p align="justify">Recently, graphical processing units (GPUs) have found a prominent role in general-purpose applications. Specifically, in parallel processing applications where a considerable number of tasks should be processed while meeting specific design constraints. One of the most interesting subjects in this area is cipher breaking via brute-force attacks, which attracts the attention of many researchers to the field. In this paper, we introduce a novel exhaustive key search approach for block cipher cryptosystems. The key point is how to utilize the single instruction multiple thread architecture to improve the speed of the DES-like hardware-based cryptosystems. At first, the standard DES core is implemented while all operations like bit permutation, swapping, and general hardware data stream follow the original algorithm. Then, in order to maximize the usage of the memory bandwidth and to eliminate the bit access penalty in GPU architecture, we exploit the register permutation and swapping (instead of the conventional bit swapping) in our implementation. In this approach, each thread examines a set of 32 keys per each iteration and hence a considerable throughput is achieved. The experimental results demonstrate 24KX, 800X, and 400X speed up over the traditional DES implementation on single-core CPU, the best previous work on multi-core CPU, and the conventional implementation on GPU, respectively. Furthermore, we measure the power and energy consumption of the best GPU and CPU approaches, where the GPU implementation proves to be more power efficient.</p>
 
   <h3>Introduction</h3>
-    <p align="justify">By the emergence of parallel high-throughput platforms, such as many-core GPUs and multi-core CPUs the software implementation of cryptography systems have become feasible and faster. </p>
+    <p align="justify">By the emergence of parallel high-throughput platforms, such as many-core GPUs and multi-core CPUs the software implementation of cryptography systems have become feasible and faster. Moreover, many researchers have proposed high-throughput software implementations for cryptography systems. However, due to programming difficulties these current software implementations fail to utilize the full capability of these days parallel platforms. In this work, we have utilized the bitslicing technique, which was previously used in the Eli Biham's DES encryption/decrytption software implementation <a href="https://link.springer.com/content/pdf/10.1007/BFb0052352.pdf">[1]</a> </p>
 <ul>
   <li>Introduction</li>
 </ul>
@@ -61,7 +61,7 @@
   <li>References</li>
 </ul>
 
-<p>[1]REFe.</p>
+<p>"[1]Biham, Eli. "A fast new DES implementation in software." International Workshop on Fast Software Encryption. Springer, Berlin, Heidelberg, 1997."</p>
 
 
   </div>
