@@ -6,8 +6,8 @@
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-    <meta name="description" content="TEXT" />
-    <meta property="og:description" content="TEXT" />
+    <meta name="description" content="In thie post, I am going to explain the bitslicing technique used in the implementation of a fast GPU-based DES cryptanalysis system that can be applied to other software based implementations. By changing the representation of the data and computations, the bitslicing technique achieves full vectorized SIMD execution on parallel hardware platforms." />
+    <meta property="og:description" content="In thie post, I am going to explain the bitslicing technique used in the implementation of a fast GPU-based DES cryptanalysis system that can be applied to other software based implementations. By changing the representation of the data and computations, the bitslicing technique achieves full vectorized SIMD execution on parallel hardware platforms." />
     
   </head>
 
@@ -22,7 +22,7 @@
     <div id="main" role="main" class="container">
       <article class="post">
   <h1>A high-performance and energy-efficient exhaustive key search approach via GPU on DES-like cryptosystems</h1>
-
+  <h2> Omid Hajihassani, Armin Ahmadzadeh, Saeid Gorgin</h2>
   <div class="entry">
     <p>TEXT</p>
 
