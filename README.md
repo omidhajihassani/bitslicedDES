@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
   <head>
     <title>Analytics on the Edge (Privacy, Utility, and Cost) – Hamed Haddadi – Imperial College London & Brave Software</title>
@@ -23,19 +21,6 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Hamed Haddadi</a></h1>
-            <p class="site-description">Imperial College London & Brave Software</p>
-          </div>
-
-          <nav>
-            <a href="/">Blog</a>
-            <a href="/about">About</a>
-            <a href="/research">Research</a>
-            <a href="/publications">Publications</a>
-            <a href="/service">Service</a>
-            <a href="/resources">Resources</a>
-          </nav>
         </header>
       </div>
     </div>
