@@ -43,14 +43,9 @@
 <p>[1] Ahmadzadeh, Armin, Omid Hajihassani, and Saeid Gorgin. "A high-performance and energy-efficient exhaustive key search approach via GPU on DES-like cryptosystems." The Journal of Supercomputing 74.1 (2018): 160-182.</p>
 <p>[2] Biham, Eli. "A fast new DES implementation in software." International Workshop on Fast Software Encryption. Springer, Berlin, Heidelberg, 1997.</p>
 <p>[3] Hajihassani, Omid, et al. "Fast AES Implementation: A High-throughput Bitsliced Approach." IEEE Transactions on Parallel and Distributed Systems (2019).</p>
-
   </div>
-
   <div class="date">
     Written on July 2, 2019
   </div>
-
-  
-</article>
 </body>
 </html>
