@@ -47,5 +47,5 @@
   <div class="date">
     Written on July 2, 2019
   </div>
-</body>
-</html>
+  </article>
+
