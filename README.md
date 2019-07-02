@@ -21,8 +21,8 @@
 
     <div id="main" role="main" class="container">
       <article class="post">
-  <h1>A high-performance and energy-efficient exhaustive key search approach via GPU on DES-like cryptosystems</h1>
-  <h2> Omid Hajihassani, Armin Ahmadzadeh, Saeid Gorgin</h2>
+  <h1>A high-performance and energy-efficient exhaustive key search approach via GPU on DES-like cryptosystems<a href="https://link.springer.com/article/10.1007/s11227-017-2120-9">Link</a></h1>
+  <h2> Authors: Omid Hajihassani, Armin Ahmadzadeh, Saeid Gorgin</h2>
   <div class="entry">
     <p>TEXT</p>
 
