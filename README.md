@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Analytics on the Edge (Privacy, Utility, and Cost) – Hamed Haddadi – Imperial College London & Brave Software</title>
+    <title>A high-performance and energy-efficient exhaustive key search approach via GPU on DES-like cryptosystems – Omid Hajihassani – University of Alberta</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
